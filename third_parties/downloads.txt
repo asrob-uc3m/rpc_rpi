@@ -1,0 +1,5 @@
+berryboot-20130528
+
+NOOBS_v1_1
+
+SDFormatter4exe
